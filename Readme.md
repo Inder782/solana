@@ -6,4 +6,4 @@ In this repository, I document my learning journey as I delve into Solana's uniq
 git clone https://github.com/Inder782/solana.git
 cd learn-solana
 
-# Notion notes can be found in the folder of particular lab exercise.
+ Notion notes can be found in the folder of particular lab exercise.
