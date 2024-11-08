@@ -32,6 +32,6 @@ transaction.add(sendSol);
 
 const signature= await sendAndConfirmTransaction(connection,transaction,[senderkey_pair,])
 
-console.log(`Finsished sent ${lamports_to_send} to the address ${ }`);
+console.log(`Finsished sent ${lamports_to_send} to the address ${signature}`);
 
 console.log(`Verify the transaction here: -> ${signature}`);
